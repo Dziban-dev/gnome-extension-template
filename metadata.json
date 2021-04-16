@@ -1,0 +1,10 @@
+{
+"name": "Extension Template",
+"gettext-domain": "extension-template",
+"schema-id": "org.gnome.shell.extensions.extension-template",
+"shell-version": ["3.36","3.38","40","40.beta"],
+"uuid": "extension-template@micah.rehack.me",
+"description": "provides a clean base plus makefile for extension dev",
+"url": "https://github.com",
+"version":
+}
